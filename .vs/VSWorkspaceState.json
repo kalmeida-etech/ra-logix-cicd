@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\2-cicd-config",
+    "\\2-cicd-config\\1-ci-teststage",
+    "\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript",
+    "\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary",
+    "\\4-standalone-testscript",
+    "\\4-standalone-testscript\\LogixDesigner_ClassLibrary",
+    "\\4-standalone-testscript\\UnitTesting_ConsoleApp\\UnitTestScripts"
+  ],
+  "SelectedNode": "\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mbT/VEpvt6g=",
+  "dgSpecHash": "2Vy0p4QGtWk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASYost\\Desktop\\RockwellAutomation_Repos\\TEMP-ra-logix-cicd\\4-standalone-testscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kalmeida\\VStudio_Projects\\ra-logix-cicd\\4-standalone-testscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalmeida\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\kalmeida\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\kalmeida\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

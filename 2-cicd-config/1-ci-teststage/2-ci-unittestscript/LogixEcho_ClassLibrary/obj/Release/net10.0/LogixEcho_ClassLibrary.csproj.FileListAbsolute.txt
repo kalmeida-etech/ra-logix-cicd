@@ -1,0 +1,5 @@
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0\LogixEcho_ClassLibrary.sourcelink.json

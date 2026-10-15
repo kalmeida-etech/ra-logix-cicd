@@ -62,3 +62,9 @@ C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage
 C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\refint\LogixDesigner_ClassLibrary.dll
 C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\LogixDesigner_ClassLibrary.pdb
 C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\ref\LogixDesigner_ClassLibrary.dll
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\LogixDesigner_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\LogixDesigner_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\LogixDesigner_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\LogixDesigner_ClassLibrary.AssemblyInfo.cs
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\LogixDesigner_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixDesigner_ClassLibrary\obj\Release\net8.0\LogixDesigner_ClassLibrary.sourcelink.json

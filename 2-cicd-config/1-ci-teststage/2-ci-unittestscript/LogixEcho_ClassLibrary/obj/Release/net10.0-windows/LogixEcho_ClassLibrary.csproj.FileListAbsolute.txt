@@ -1,0 +1,14 @@
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Release\net10.0-windows\FtspAdapter.exe
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Release\net10.0-windows\LogixEcho_ClassLibrary.deps.json
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Release\net10.0-windows\LogixEcho_ClassLibrary.dll
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Release\net10.0-windows\LogixEcho_ClassLibrary.pdb
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.sourcelink.json
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.dll
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\refint\LogixEcho_ClassLibrary.dll
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\LogixEcho_ClassLibrary.pdb
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Release\net10.0-windows\ref\LogixEcho_ClassLibrary.dll

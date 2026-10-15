@@ -262,3 +262,9 @@ C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage
 C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.pdb
 C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.genruntimeconfig.cache
 C:\Users\ASYost\Desktop\RA_CICD_FINAL\ra-cicd-test6\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\ref\UnitTesting_ConsoleApp.dll
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.AssemblyInfo.cs
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kalmeida\VStudio_Projects\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\UnitTesting_ConsoleApp\obj\Release\net8.0\UnitTesting_ConsoleApp.sourcelink.json
